@@ -1,2 +1,0 @@
-# tanay
-Created with CodeSandbox
